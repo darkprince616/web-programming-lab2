@@ -13,4 +13,15 @@
 ## Навыки
 - HTML, C++
 - Git, GitHub
-- c#
+- c#, VS Code
+
+## Примеры кода
+Пример простого приветствия на HTML:
+
+```html
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1>Hello World!</h1>
+  </body>
+</html>
