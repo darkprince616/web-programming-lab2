@@ -1,4 +1,5 @@
 # Yan Kamaleev
+![My Avatar](avatar.jpg)
 
 ## Контакты
 - 📞 Телефон: +375293540384
